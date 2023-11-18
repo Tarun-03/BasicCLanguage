@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1607951151 source:d:\c projects\mensuration\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1607944499 source:d:\c projects\mensuration\test.c
+	<stdio.h>
+	<stdlib.h>
+
